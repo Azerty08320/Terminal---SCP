@@ -1,22 +1,3 @@
-Génial ! Si vous voyez index.html et pas index.html.txt, c'est parfait, ça veut dire que votre ordinateur affiche les extensions de fichier correctement. C'est exactement ce qu'on veut.
-
-Donc, pour résumer, dans votre dossier mon-terminal-scp, vous avez bien :
-
-Un fichier nommé index.html
-Votre image de logo nommée scp_logo.png
-Étape 4 : Ouvrir et modifier index.html
-Maintenant que vous avez les fichiers, nous allons mettre le "squelette" (le code HTML) dedans. Pour ça, vous avez besoin d'un programme pour modifier le texte. Le "Bloc-notes" de Windows est suffisant pour débuter.
-
-Faites un clic droit sur le fichier index.html.
-Dans le menu qui apparaît, choisissez "Ouvrir avec".
-Puis, sélectionnez "Bloc-notes" (ou "Notepad" en anglais).
-Le fichier va s'ouvrir et sera vide pour l'instant.
-
-Étape 5 : Coller le code HTML de base
-Copiez tout le code qui se trouve ci-dessous (commencez par <!DOCTYPE html> et allez jusqu'à </html>).
-
-HTML
-
 <!DOCTYPE html>
 <html lang="fr">
 <head>
